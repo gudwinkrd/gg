@@ -84,7 +84,7 @@ Contains database connection implementations. Currently supports Ceramic Network
 The server handling incoming requests to issue credentials and process verifications. [README](iam/README.md)
 
 ## identity
-
+ggmydc 
 This is a helper package to compile Spruce DIDKit and export functions for use in `iam` and `app` packages.
 
 ## infra
