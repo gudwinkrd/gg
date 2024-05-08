@@ -47,7 +47,7 @@ npm install --global lerna
 lerna init
 lerna bootstrap
 ```
-
+ggghyipo
 2. Create environment files, and replace environment variables with your own values
 
 ```sh
