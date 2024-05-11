@@ -62,7 +62,7 @@ cp ./schemas/.env-example.env ./schemas/.env
 # remember to create .env files first
 yarn start
 ```
-
+edcyup
 ## Background Knowledge
 
 - Know what a wallet is, how to create one, etc.
