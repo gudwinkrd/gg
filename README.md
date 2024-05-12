@@ -39,7 +39,7 @@ If you think you've found a security vulnerability, we maintain an open bounty o
 Prerequisites: [Node (v16 LTS)](https://nodejs.org/en/download/) plus [Yarn](https://classic.yarnpkg.com/en/docs/install/) and [Git](https://git-scm.com/downloads)
 
 1. Install Gitcoin Passport (this will install all packages within the passport monorepo):
-
+ttututu
 ```sh
 git clone https://github.com/gitcoinco/passport.git
 cd passport
