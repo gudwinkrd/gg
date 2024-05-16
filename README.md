@@ -11,9 +11,8 @@ FGFDCFDFD
 Check out our documentation at https://docs.passport.gitcoin.co
 
 ## Contributing to Passport
-
-We welcome everyone to contribute to the Passport project.
-
+gncome everyone to contribute to the Passport project.
+nbcbc
 You can join our [Discord](https://discord.gg/w6K2wwHr) and specifically the [passport-builders](https://discord.com/channels/562828676480237578/986222591096279040) channel (just be sure to select the builder role when you join the discord) to get help and discuss the project with the rest of the community.
 efefrsefe
 You can also familiarize yourself with our near term project roadmap in the passport [project backlog](https://github.com/orgs/gitcoinco/projects/6/views/3)
