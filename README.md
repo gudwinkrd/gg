@@ -26,7 +26,7 @@ All pull requests must be approved by two committers before being merged into th
 Committers may also push style changes directly to your branch. If you would rather manage all changes yourself, you can disable the "Allow edits from maintainers" feature when submitting your pull request.
 gfnfgngf
 The Passport team may optionally assign someone to review a pull request. If someone is assigned, they must explicitly approve the code before another team member can merge it.
-
+fgnfn
 When the review finishes, your pull request will be squashed and merged into the repository. If you have carefully organized your commits and believe they should be merged without squashing, please mention it in a comment.
 
 ## Bug Bounty
