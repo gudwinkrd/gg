@@ -28,7 +28,7 @@ gfnfgngf
 The Passport team may optionally assign someone to review a pull request. If someone is assigned, they must explicitly approve the code before another team member can merge it.
 fgnfn
 When the review finishes, your pull request will be squashed and merged into the repository. If you have carefully organized your commits and believe they should be merged without squashing, please mention it in a comment.
-
+jh,jh,hj,
 ## Bug Bounty
 
 If you think you've found a security vulnerability, we maintain an open bounty on Gitcoin to help reward community members who report these issues. Check it out here: https://github.com/gitcoinco/passport/issues/133
