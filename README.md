@@ -45,10 +45,10 @@ cd passport
 npm install --global lerna
 lerna init
 lerna bootstrap
-```
+```dsvds
 ggghyipo
 2. Create environment files, and replace environment variables with your own values
-
+dsvds
 ```sh
 cp ./app/.env-example.env ./app/.env
 cp ./iam/.env-example.env ./iam/.env
