@@ -87,7 +87,7 @@ ggmydc
 This is a helper package to compile Spruce DIDKit and export functions for use in `iam` and `app` packages.
 
 ## infra
-
+mmfghj
 Holds the Pulumi deployment configuration for this repository. [README](infra/README.md)
 
 ## schemas
