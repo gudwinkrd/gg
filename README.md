@@ -63,7 +63,7 @@ yarn start
 `fghhfhfg``
 edcyup
 ## Background Knowledge
-
+jhgjhgjhg
 - Know what a wallet is, how to create one, etc.
 - Know what a Verifiable Credential is
 - Know basics of Ceramic Network - interacting with DIDDatastore, Self.ID
