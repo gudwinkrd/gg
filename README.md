@@ -67,7 +67,7 @@ jhgjhgjhg
 - Know what a wallet is, how to create one, etc.
 - Know what a Verifiable Credential is
 - Know basics of Ceramic Network - interacting with DIDDatastore, Self.ID
-
+hfgfdhh
 # Packages
 
 ## app
