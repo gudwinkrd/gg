@@ -69,7 +69,7 @@ jhgjhgjhg
 - Know basics of Ceramic Network - interacting with DIDDatastore, Self.ID
 hfgfdhh
 # Packages
-
+ggngf
 ## app
 gfmfmf
 The web app allowing users to interact with their Gitcoin Passport. [README](app/README.md)
