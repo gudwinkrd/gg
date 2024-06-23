@@ -53,7 +53,7 @@ dsvds
 cp ./app/.env-example.env ./app/.env
 cp ./iam/.env-example.env ./iam/.env
 cp ./schemas/.env-example.env ./schemas/.env
-```
+```dsvdsvb
 v nvhhfmmjj
 3. Start iam, app, and ceramic services concurrently:
 rehdhe
