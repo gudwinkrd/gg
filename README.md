@@ -77,7 +77,7 @@ dbdsb
 ## database-client
 gfngfngn
 Contains database connection implementations. Currently supports Ceramic Network. [README](database-client/README.md)
-
+fdbnfdb
 ## iam
 gfnfgnfgn
 The server handling incoming requests to issue credentials and process verifications. [README](iam/README.md)
