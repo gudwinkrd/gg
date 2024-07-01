@@ -68,7 +68,7 @@ jhgjhgjhg
 - Know what a Verifiable Credential is
 - Know basics of Ceramic Network - interacting with DIDDatastore, Self.ID
 hfgfdhh
-# Packages
+# wegfewgPackages
 ggngf
 ## app
 gfmfmf
