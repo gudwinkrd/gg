@@ -41,7 +41,7 @@ gfjmjhhlk,hg
 ttututu
 ```sh
 git clone https://github.com/gitcoinco/passport.git
-cd passport
+cd passportsrgtewrgytwe
 npm install --global lerna
 lerna init
 lerna bootstrap
