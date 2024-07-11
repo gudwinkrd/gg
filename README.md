@@ -58,7 +58,7 @@ v nvhhfmmjj
 3. Start iam, app, and ceramic services concurrently:
 rehdhe
 ```sh
-# remember to create .env files first
+# remember to create .env files firstfdhfdhd
 yarn start
 `fghhfhfg``
 edcyup
