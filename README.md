@@ -57,7 +57,7 @@ cp ./schemas/.env-example.env ./schemas/.env
 v nvhhfmmjj
 3. Start iam, app, and ceramic services concurrently:
 rehdhe
-```sh
+```sdsvgbdsbdsbh
 # remember to create .env files firstfdhfdhd
 yarn start
 `fghhfhfg``
