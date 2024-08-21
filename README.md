@@ -1,3 +1,3 @@
 # Gitcoin Passport
 
-## What is Passport?
+## What is Passport
